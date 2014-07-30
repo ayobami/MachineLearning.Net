@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning.Net.LinearR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning.Net.LinearRegression.Test", "MachineLearning.Net.LinearRegression.Test\MachineLearning.Net.LinearRegression.Test.csproj", "{CEFCACEA-7876-4977-B7E4-936F98235C99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning.Net.Demo", "MachineLearning.Net.Demo\MachineLearning.Net.Demo.csproj", "{8476EB30-A22F-453D-96BB-036F960834AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CEFCACEA-7876-4977-B7E4-936F98235C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEFCACEA-7876-4977-B7E4-936F98235C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEFCACEA-7876-4977-B7E4-936F98235C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8476EB30-A22F-453D-96BB-036F960834AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8476EB30-A22F-453D-96BB-036F960834AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8476EB30-A22F-453D-96BB-036F960834AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8476EB30-A22F-453D-96BB-036F960834AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

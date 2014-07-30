@@ -1,0 +1,10 @@
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\bin\Debug\MachineLearning.Net.Demo.exe.config
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\bin\Debug\MachineLearning.Net.Demo.exe
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\bin\Debug\MachineLearning.Net.Demo.pdb
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\bin\Debug\MachineLearning.Net.LinearRegression.dll
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\bin\Debug\MathNet.Numerics.dll
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\bin\Debug\MachineLearning.Net.LinearRegression.pdb
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\bin\Debug\MathNet.Numerics.xml
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\obj\Debug\MachineLearning.Net.Demo.csprojResolveAssemblyReference.cache
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\obj\Debug\MachineLearning.Net.Demo.exe
+C:\Users\AYOBAMI\documents\visual studio 2013\Projects\MachineLearning.Net\MachineLearning.Net.Demo\obj\Debug\MachineLearning.Net.Demo.pdb
