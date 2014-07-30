@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+ * This code was developed 
+ *
+ *          by
+ *
+ *     Ayobami Adewole
+ * 
+ * www.ayobamiadewole.com
+ *
+ * Licensed under Mozilla Public License, version 2.0 
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,7 +39,7 @@ namespace MachineLearning.Net.Demo
 
 
             //Loading the training set from file
-            string path = @"C:\Code Files\ex1data1.txt";
+            string path =Environment.CurrentDirectory+@"\ex1data1.txt";
             DataLoader dataLoader = new DataLoader();
             TrainingSet trainingSet = dataLoader.LoadTrainingSetFromFile(path);
 

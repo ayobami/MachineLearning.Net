@@ -8,3 +8,6 @@ Machine Learning Algorithm(s) Implemented
 
 
 Implementation of the other algorithms would come later.
+
+
+This project uses MathNet Library for Matrix operations
